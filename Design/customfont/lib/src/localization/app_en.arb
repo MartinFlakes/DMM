@@ -1,0 +1,6 @@
+{
+  "appTitle": "customfont",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
