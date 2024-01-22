@@ -1,0 +1,6 @@
+{
+  "appTitle": "formstylingtextfield",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "appTitle": "longlists",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}

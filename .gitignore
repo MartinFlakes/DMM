@@ -1,8 +1,8 @@
-# Ignorar todos los archivos y carpetas
+# Ignore all files and folders
 *
 
-# Permitir carpetas (incluso vacías)
+# Allow folders (including empty ones)
 !*/
 
-# Permitir solo archivos main.dart en cualquier nivel de profundidad
-!**/main.dart
+# Allow all files inside lib folders
+!**/lib/**
